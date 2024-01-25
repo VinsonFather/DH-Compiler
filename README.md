@@ -16,7 +16,7 @@ DH+ Compiler 是一个极简主义语言编译器，用于执行一个极简单�
 3. 在代码输入框中输入 "H"。
 4. 单击 "运行" 按钮，即可在输出框中看到 "HelloWorld"。
 
-##UI
+## UI
 <img width="712" alt="截屏2024-01-25 11 54 09" src="https://github.com/VinsonFather/DH-Compiler/assets/103871292/cfc3caa3-c475-4f01-8d04-cae47e4f778a">
 
 
