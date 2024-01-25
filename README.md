@@ -32,6 +32,8 @@ DH+ Compiler 是一个极简主义语言编译器，用于执行一个极简单�
 
 本项目采用 GPL-3.0 许可证，详细信息请参阅“LICENSE”文件。
 
+## 制作软件
+Jetbrains CLion 
 ---
 
 **作者：** https://www.github.com/VinsonFather
